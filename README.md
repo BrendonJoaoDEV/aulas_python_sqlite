@@ -8,9 +8,3 @@
 </div>
 
 <hr>
-
-<div>
-  <p align="center">
-  &copy; Todos os direitos reservados.
-  </p>
-</div>
